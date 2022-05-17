@@ -9,8 +9,11 @@ Anaconda - Python 3.7
 ### Step1:
 Import the necessary modules.
 
-### Step2:
-For performing edge detection on a image.
+### Step 2:
+Convert the BGR image to gray scale image 
+
+### Step3:
+For performing edge detection on a image. Use the following operators on the image:
 
 Sobel
 ```python
@@ -28,6 +31,7 @@ Canny
 ```python
 canny=cv2.Canny(img,120,150)
 ```
+
 
 ## Program:
 
