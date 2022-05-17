@@ -91,15 +91,15 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 <br>
-![Screenshot (2)](https://user-images.githubusercontent.com/75234646/168789832-ef3ad150-02a8-48bd-944d-9e771fa46114.png)
 
+![Screenshot (2)](https://user-images.githubusercontent.com/75234646/168790422-ee53a35b-49e3-48df-a6f5-99ea39d51258.png)
 
 <br>
 
 
 ### LAPLACIAN EDGE DETECTOR
 <br>
-![Screenshot (3)](https://user-images.githubusercontent.com/75234646/168789849-9c2ba86b-685c-4f55-b0c0-b8b42c21cb3c.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/75234646/168790410-f091958a-1831-446c-875e-52262bc4f080.png)
 
 
 <br>
