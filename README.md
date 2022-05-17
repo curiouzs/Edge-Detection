@@ -91,28 +91,25 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 <br>
-<br>
-<br>
-<br>
-<br>
+![Screenshot (2)](https://user-images.githubusercontent.com/75234646/168789832-ef3ad150-02a8-48bd-944d-9e771fa46114.png)
+
+
 <br>
 
 
 ### LAPLACIAN EDGE DETECTOR
 <br>
-<br>
-<br>
-<br>
-<br>
+![Screenshot (3)](https://user-images.githubusercontent.com/75234646/168789849-9c2ba86b-685c-4f55-b0c0-b8b42c21cb3c.png)
+
+
 <br>
 
 
 ### CANNY EDGE DETECTOR
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![Screenshot (4)](https://user-images.githubusercontent.com/75234646/168789868-d7ede929-3e8e-459d-a588-f0e6b7207993.png)
+
 <br>
 
 ## Result:
